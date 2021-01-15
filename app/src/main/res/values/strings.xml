@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Samuel Clavijo</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi My name is Samuel Clavijo.\n\nI am a Systems Engineer and with a Master in Business Administration from Colombia,
+    \n\nI worked with several  Databases Management System (DBMS) a text-based procedurally oriented programming languages including:
+    \nFoxBase, FoxPro
+    \n\nI collaborated as a Software Engineer with 5 analyst programmers under my lead, for EMCALI, a Utility Company in Cali, Colombia using
+    Oracle Database, Oracle Forms, Designer, Developer 2000 and SQL. Then I
+    moved to US in Year 2000, after I started teaching Microsoft Office and Windows in a vocational school.
+    During that time I was learning by myself Java.
+    \n\nIn 2012 I started working on Union City Board of Education as a Math Teacher on the Union City High School, then on
+    2019 I was offered the position of Computer Science Teacher in Jose Marti STEM Academy, position
+    which I am holding now,also I am the Coding Club advisor, I learned some Python and Kotlin during that time by myself.
+    \n\n in 2018 I took a scholarship with Udacity and Google, then I was selected to do the Android Basics Nanodegree which I finished.
+     \n\nNow I am doing the Android Developer Nanodegree and I will be looking for a part time position on that field.\n\n
+    </string>
+    <string name="what_is_your_nickname">What is your nick name?</string>
+    <string name="done">Done</string>
+</resources>
